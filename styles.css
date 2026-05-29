@@ -214,6 +214,9 @@ cursor:pointer;
 transition:var(--transition);
 text-align:center;
 }
+#menu {
+  align-items: left;
+}
 
 button:hover,
 .card a:hover{
